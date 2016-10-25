@@ -1,2 +1,3 @@
 # ProjectX
 Face and voice recognition via Raspberry PI
+Inital stages of development ongoing....
